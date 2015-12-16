@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 影库名称长度 -->
+    <integer name="video_recommend_name_ems">19</integer>
+</resources>

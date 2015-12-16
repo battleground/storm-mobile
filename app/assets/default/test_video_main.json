@@ -1,0 +1,347 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "category": "0",
+      "name": "推荐",
+      "type": "1",
+      "list": [
+        {
+          "vid": "124168",
+          "name": "脑洞炸裂 粉笔战争",
+          "desc": "粉笔画武器之废弃工厂战役",
+          "vtype": "3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/7\\/81c9072ee1c49a8d9dbddb7d11e8ea16.png"
+        },
+        {
+          "vid": "124142",
+          "name": "100年各国美女历史演变",
+          "desc": "100年间不同国家女性妆容演变史 ",
+          "vtype": "3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/d\\/3b7553f4002c0a388f4a5c0fc16290e1.jpg"
+        },
+        {
+          "vid": "124111",
+          "name": "老美你怎么看 27：美国小鲜肉爆笑广场舞",
+          "desc": "老美大战广场舞大妈 ",
+          "vtype": "3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/2\\/4fd23300ac4e1e52ef5deaf07af2c3ea.png"
+        },
+        {
+          "vid": "120832",
+          "name": "中国功夫史19：于承惠-中国最后的剑圣",
+          "desc": "身法出身入画  剑法宛如游龙  气质飘逸高古",
+          "vtype": "3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/8\\/1c80b24d02955140d8c1de751e2eb5c7.jpg"
+        },
+        {
+          "vid": "123904",
+          "name": "日本整人大赏2011",
+          "desc": "要说整人节目 岛国敢称世界第一 没人敢说第二",
+          "vtype": "3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/3\\/ac258dd5a92591c5b2ee6963aa33f5b9.png"
+        }
+      ]
+    },
+    {
+      "category": "2",
+      "name": "电影",
+      "type": "0",
+      "list": [
+        {
+          "vid": "164448",
+          "name": "天将雄师",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/a\\/a1fcfa95f6140ee12fc45f58104c2d33.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "165229",
+          "name": "女神跟我走",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/3\\/a466f0ddd6040a5952c609b35ce36645.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "165481",
+          "name": "我的男友和狗",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/d\\/81e1a15f4f37a206ecbab734e4d05dc0.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "165480",
+          "name": "横冲直撞好莱坞",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/a\\/82be5bef89e21383c5d00d139451d3ff.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "165482",
+          "name": "摇滚英雄",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/2\\/72e9cf5e8ec5ff17f63b3672a366e965.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "163674",
+          "name": "帕丁顿熊",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/0\\/5684b4c646e81db3c9d10e48599b36b6.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "163140",
+          "name": "飓风营救3",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/6\\/98a50f51327e7c540394ce9b9ab5866e.jpg",
+          "category": "2",
+          "vtype": "1"
+        },
+        {
+          "vid": "164452",
+          "name": "爸爸的假期",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/4\\/fe045198a4fb6e8f6879d20094339214.jpg",
+          "category": "2",
+          "vtype": "1"
+        }
+      ]
+    },
+    {
+      "category": "3",
+      "name": "电视剧",
+      "type": "0",
+      "list": [
+        {
+          "spiderid": "171175",
+          "vid": "165439",
+          "isend": "0",
+          "name": "来自未来的史密特",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/8\\/f0a463f27d6453a451cd1b86af0b73a3.jpg",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171022",
+          "vid": "165286",
+          "isend": "0",
+          "name": "东北抗日联军",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/1436148531a8623d00f8132191851b2e0aa3edb7dd8249.png",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171088",
+          "vid": "165352",
+          "isend": "0",
+          "name": "冰与火的青春",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/5\\/592c1dd4d77c7f2a2d12e3ad63c69984.jpg",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171115",
+          "vid": "165379",
+          "isend": "0",
+          "name": "异镇",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/2\\/e6997b0dd64b70a045e636ad9c4050bc.jpg",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171178",
+          "vid": "165442",
+          "isend": "0",
+          "name": "英雄祭",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/143763060293c5638b0f18ce45d7f3d6625f7763446366.png",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171229",
+          "vid": "165493",
+          "isend": "0",
+          "name": "拥抱星星的月亮",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/9\\/ce3fc0233ac530dd04e4dd113faff575.jpg",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171197",
+          "vid": "165461",
+          "isend": "0",
+          "name": "绝命追踪",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/6\\/91ff54cec068d65a765d2b5b3e4e9869.jpg",
+          "category": "3",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171221",
+          "vid": "165485",
+          "isend": "0",
+          "name": "大舜",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/6\\/2ebfdab1a5d684dccbe28f514fb3b9a2.jpg",
+          "category": "3",
+          "vtype": "1"
+        }
+      ]
+    },
+    {
+      "category": "6",
+      "name": "综艺",
+      "type": "0",
+      "list": [
+        {
+          "spiderid": "171236",
+          "vid": "165500",
+          "isend": "0",
+          "name": "我知道 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/1438050176003bf90cf8ca13378b8cc425f2462e4f9546.png",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171234",
+          "vid": "165498",
+          "isend": "0",
+          "name": "中华好民歌 第2季",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/d\\/ed60ee5f700743ac9f6610846a648707.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171153",
+          "vid": "165417",
+          "isend": "0",
+          "name": "冲上云霄 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/8\\/f211f36c5a4ddfd4876a74da0b0f50d4.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "170884",
+          "vid": "165150",
+          "isend": "0",
+          "name": "极限挑战 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/b\\/9ece297920ac5567d4aac39dfd7c7d65.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "170781",
+          "vid": "165047",
+          "isend": "0",
+          "name": "出发吧爱情 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/6\\/662ac94907e06f20cc536d3eacded46d.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171180",
+          "vid": "165444",
+          "isend": "0",
+          "name": "真心英雄真人秀 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/c\\/14f5fe82f435d0ee04745201553aba06.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171098",
+          "vid": "165362",
+          "isend": "0",
+          "name": "壮志凌云 2015",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/4\\/5952ecaf524d1f6820cbdac65923d3dd.jpg",
+          "category": "6",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "171151",
+          "vid": "165415",
+          "isend": "0",
+          "name": "蒙面歌王",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/8\\/8c03355484d330cf61b64e33be42a9ca.jpg",
+          "category": "6",
+          "vtype": "1"
+        }
+      ]
+    },
+    {
+      "category": "4",
+      "name": "动漫",
+      "type": "0",
+      "list": [
+        {
+          "spiderid": "30997",
+          "vid": "30997",
+          "isend": "0",
+          "name": "贝瓦儿歌",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/1bc097b5a7ddf206dd432dada2fdfb2d.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "11801",
+          "vid": "11801",
+          "isend": "0",
+          "name": "海贼王",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/e\\/17bc0b4b84fcd0e1ba0959f835bd42fa.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "7483",
+          "vid": "7483",
+          "isend": "0",
+          "name": "火影忍者",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/a\\/87eda950d8df786e5d11bf333497145a.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "714",
+          "vid": "714",
+          "isend": "1",
+          "name": "奇思妙想喜羊羊",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/4\\/47dc6c325706e2351127e1b6a9483957.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "11589",
+          "vid": "11589",
+          "isend": "1",
+          "name": "爱探险的朵拉",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/1411638409e2ae97d0a7179e363b8ec395b26978e86748.png",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "9135",
+          "vid": "9135",
+          "isend": "1",
+          "name": "倒霉熊全集",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/7\\/703cea59274f1be413340b6b4b105abf.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "35618",
+          "vid": "35618",
+          "isend": "0",
+          "name": "愤怒的小鸟 ",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/1\\/14170555762398cc0a9d1035442e6e6e4ea7159c4c2457.jpg",
+          "category": "4",
+          "vtype": "1"
+        },
+        {
+          "spiderid": "19690",
+          "vid": "19690",
+          "isend": "1",
+          "name": "猫和老鼠 国语版",
+          "cover": "http:\\/\\/img1tuzi.b0.upaiyun.com\\/upload\\/origin\\/5\\/04a2856fdbd192bdf7d20f9e9cac7146.jpg",
+          "category": "4",
+          "vtype": "1"
+        }
+      ]
+    }
+  ]
+}

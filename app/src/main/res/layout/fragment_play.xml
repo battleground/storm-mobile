@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/ScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:animateLayoutChanges="true">
+
+            <com.baofeng.mobile.widget.FullScreen
+                android:id="@+id/PlayerLayout"
+                android:layout_width="match_parent"
+                android:layout_height="200dp" />
+
+            <include layout="@layout/fragment_play_content" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/Close"
+            android:layout_width="wrap_content"
+            android:layout_height="?actionBarSize"
+            android:onClick="onClose"
+            android:padding="12dp"
+            android:src="@drawable/play_close" />
+    </LinearLayout>
+
+</FrameLayout>

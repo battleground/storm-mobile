@@ -1,0 +1,71 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:isScrollContainer="true">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:fillViewport="false"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <include layout="@layout/fragment_message_header" />
+
+            <fragment
+                android:id="@+id/CommentFragment"
+                android:name="com.baofeng.mobile.fragment.CommentFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/InputShadow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="?android:actionBarSize"
+            android:layout_gravity="bottom"
+            android:background="#FAFAFA"
+            android:orientation="horizontal"
+            android:padding="6dp">
+
+            <EditText
+                android:id="@+id/ReplyEdit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:background="@drawable/episode_item_selector"
+                android:gravity="bottom"
+                android:hint="评论"
+                android:maxLines="5"
+                android:padding="6dp"
+                android:textColor="#9E9E9E" />
+
+            <TextView
+                android:id="@+id/Send"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#DD4C11"
+                android:gravity="center"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:text="发送"
+                android:textColor="#FFF" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

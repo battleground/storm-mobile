@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/VideoView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000" >
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="播放器"
+        android:textColor="@color/gray_80"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/FullScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|bottom"
+        android:background="@drawable/default_item_selector"
+        android:padding="6dp"
+        android:text="全屏"
+        android:textColor="@color/gray_80"
+        android:textSize="40sp" />
+
+</FrameLayout>

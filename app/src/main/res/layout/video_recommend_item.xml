@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/default_item_selector"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tag"
+        android:layout_width="3dp"
+        android:layout_height="14dp"
+        android:layout_marginBottom="14dp"
+        android:layout_marginTop="14dp"
+        android:background="#ff4b05" />
+
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/item_height"
+        android:layout_marginLeft="11dp"
+        android:layout_toRightOf="@+id/tag"
+        android:gravity="center_vertical"
+        android:text="电影"
+        android:textColor="@color/text_title"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/item_arrow"
+        android:layout_width="@dimen/item_height"
+        android:layout_height="@dimen/item_height"
+        android:layout_alignParentRight="true"
+        android:scaleType="center"
+        android:src="@drawable/btn_arrow_right" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_name"
+        android:layout_marginBottom="8dp"
+        android:clipToPadding="false"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+    <include
+        layout="@layout/line_h_gray"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_below="@id/recyclerview_item" />
+</RelativeLayout>

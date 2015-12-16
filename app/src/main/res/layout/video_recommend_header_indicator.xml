@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@drawable/shape_video_recommend"
+    android:paddingLeft="13dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/desc"
+        android:maxEms="@integer/video_recommend_name_ems"
+        android:text="NAME"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:singleLine="true"/>
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/layout_indicator"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="5dp"
+        android:text="DESCINFORMATION"
+        android:textSize="11sp"
+        android:textColor="@color/text_sub_title"
+        android:singleLine="true"
+        android:visibility="visible"/>
+
+    <RadioGroup
+        android:id="@+id/layout_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@id/desc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"/>
+</RelativeLayout>

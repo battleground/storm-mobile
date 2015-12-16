@@ -1,0 +1,56 @@
+{
+  "status": {
+    "code": "0",
+    "msg": "success"
+  },
+  "data": [
+      {
+        "id": "2",
+        "name": "电影",
+        "iconResId": "drawable/ic_c_dianying",
+        "count": 3233
+      },
+      {
+        "id": "3",
+        "name": "电视剧",
+        "iconResId": "drawable/ic_c_tv",
+        "count": 634
+      },
+      {
+        "id": "6",
+        "name": "综艺",
+        "iconResId": "drawable/ic_c_zongyi",
+        "count": 234124
+      },
+      {
+        "id": "4",
+        "name": "动漫",
+        "iconResId": "drawable/ic_c_dongman",
+        "count": 5679
+      },
+      {
+        "id": "4",
+        "name": "游戏",
+        "iconResId": "drawable/ic_c_youxi",
+        "count": 1231
+      },
+      {
+        "id": "5",
+        "name": "纪录片",
+        "iconResId": "drawable/ic_c_jilupian",
+        "count": 4543
+      },
+      {
+        "id": "6",
+        "name": "教育",
+        "iconResId": "drawable/ic_c_jiaoyu",
+        "count": 5686
+      },
+      {
+        "id": "7",
+        "name": "体育",
+        "iconResId": "drawable/ic_c_tiyu",
+        "count": 4607
+      }
+    ]
+}

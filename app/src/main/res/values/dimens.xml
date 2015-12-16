@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 影库封面尺寸 -->
+    <dimen name="video_storage_cover_width">100dp</dimen>
+    <dimen name="video_storage_cover_height">147dp</dimen>
+
+    <!-- 影库筛选底部分割线高度 -->
+    <dimen name="filter_line">0.5dp</dimen>
+
+    <dimen name="item_height">42dp</dimen>
+
+    <dimen name="player_height">200dp</dimen>
+</resources>

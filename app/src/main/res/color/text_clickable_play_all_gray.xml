@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/text_play_label" android:state_pressed="true" />
+    <item android:color="@color/text_play_label2" />
+
+</selector>

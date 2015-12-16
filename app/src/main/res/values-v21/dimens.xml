@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- 影库筛选底部分割线高度 -->
+    <dimen name="filter_line">0dp</dimen>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleBar">
+        <attr name="textBack" format="string"/>
+        <attr name="textNext" format="string"/>
+        <attr name="textNext2" format="string"/>
+        <attr name="textTitle" format="string"/>
+        <attr name="drawableBack" format="reference"/>
+        <attr name="drawableNext" format="reference"/>
+        <attr name="drawableNext2" format="reference"/>
+        <attr name="drawableTitle" format="reference"/>
+        <attr name="drawableTitleArrow" format="reference"/>
+    </declare-styleable>
+
+    <!-- Declare custom theme attributes that allow changing which styles are
+         used for button bars depending on the API level.
+         ?android:attr/buttonBarStyle is new as of API 11 so this is
+         necessary to support previous API levels. -->
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+</resources>

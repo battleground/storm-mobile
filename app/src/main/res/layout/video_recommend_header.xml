@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/layout_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:descendantFocusability="blocksDescendants">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/header_ViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="197dp"
+        android:background="@mipmap/ic_default_video_recommend"/>
+
+    <com.baofeng.mobile.widget.VideoRecommendHeaderIndicator
+        android:id="@+id/header_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignBottom="@+id/header_ViewPager"
+        android:layout_alignLeft="@id/header_ViewPager"
+        android:layout_alignRight="@id/header_ViewPager"/>
+
+    <include
+        android:id="@+id/line"
+        layout="@layout/line_h_gray"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@id/header_ViewPager"/>
+
+    <LinearLayout
+        android:id="@+id/layout_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/movie"
+            style="@style/video_recommend_header_text"
+            android:drawableTop="@drawable/ic_c_dianying"
+            android:text="电影"/>
+
+        <TextView
+            android:id="@+id/tv"
+            style="@style/video_recommend_header_text"
+            android:drawableTop="@drawable/ic_c_tv"
+            android:text="电视剧"/>
+
+        <TextView
+            android:id="@+id/zongyi"
+            style="@style/video_recommend_header_text"
+            android:drawableTop="@drawable/ic_c_zongyi"
+            android:text="综艺"/>
+
+        <TextView
+            android:id="@+id/dongman"
+            style="@style/video_recommend_header_text"
+            android:drawableTop="@drawable/ic_c_dongman"
+            android:text="动漫"/>
+
+        <TextView
+            android:id="@+id/all"
+            style="@style/video_recommend_header_text"
+            android:drawableTop="@drawable/ic_c_all"
+            android:text="全部"/>
+    </LinearLayout>
+
+    <include
+        layout="@layout/line_h_gray"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_below="@id/layout_type"/>
+</RelativeLayout>

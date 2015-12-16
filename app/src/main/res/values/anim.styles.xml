@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 由下向上动画 -->
+    <style name="slid_bottom_to_top_Animation" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/slid_enter_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/slid_exit_to_bottom</item>
+    </style>
+
+</resources>
